@@ -1,7 +1,5 @@
 # @sDorot — 
 
----
-
 ## 🚀 · About me
 
 Hello! I'm Dorot, a passionate web developer aiming to become a Full Stack developer to provide comprehensive and effective solutions. ✔
@@ -88,5 +86,5 @@ Hello! I'm Dorot, a passionate web developer aiming to become a Full Stack devel
 
 
 ### 📞 Contact with me
-
+---
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gdsebastian/)
