@@ -1,5 +1,3 @@
-# @sDorot — 
-
 ## 🚀 · About me
 
 Hello! I'm Dorot, a passionate web developer aiming to become a Full Stack developer to provide comprehensive and effective solutions. ✔
